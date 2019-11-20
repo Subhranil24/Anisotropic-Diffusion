@@ -1,0 +1,11 @@
+
+@article{perona1990scale,
+  title={Scale-space and edge detection using anisotropic diffusion},
+  author={Perona, Pietro and Malik, Jitendra},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={12},
+  number={7},
+  pages={629--639},
+  year={1990},
+  publisher={IEEE}
+}
